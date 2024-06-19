@@ -45,7 +45,7 @@ def process(img):
     return img_with_lines
 
 
-cap = cv2.VideoCapture(r"C:\Users\tayip\Desktop\Opencv_Projects\projects\video2.mp4")
+cap = cv2.VideoCapture(video path)
 
 
 while True : 
